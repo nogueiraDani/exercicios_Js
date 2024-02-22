@@ -5,4 +5,4 @@
 ### 👶Iniciante 
 
 * [Problema 1000](https://github.com/nogueiraDani/exercicios_Js/tree/main/problema_1000)
-* [Problema 1001]()
+* [Problema 1001](https://github.com/nogueiraDani/exercicios_Js/tree/main/problema_1001)
